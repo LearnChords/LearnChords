@@ -7,9 +7,9 @@ body{
 	list-style: none;
 	padding: 0;
 	background: #1D232C;
-	width: 500%;
-	max-width: 1200px;
-	margin: auto;
+	width: 600%;
+	max-width: 1440px;
+	margin: 0;
 }
 
 .menu li a{
@@ -27,4 +27,21 @@ body{
 .menu li a:hover{
 	background:#EA2A46;
 }
+body{
+	margin: 0;
+}
+video{
+top:00%;
+left:0%;
+position: fixed;
+z-index: 2;
+position:relative;
 
+
+}
+footer{
+	text-align: center;
+	background-color:#1D232C;
+	color:#fff;
+	padding: 30px;
+}
